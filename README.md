@@ -7,4 +7,5 @@ Contains some fun learning projects and their corresbonding ascii art done throu
 - [Hangman (python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/Hangman)
 - [Calculator (python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/Calculator)
 - [Treasuer hunt (python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/blob/main/Treasure%20Hunt.py)
-- [Black jack(python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/Black%20jack)
+- [Black jack (python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/Black%20jack)
+- [Guess the number (python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/Guess%20the%20number)
