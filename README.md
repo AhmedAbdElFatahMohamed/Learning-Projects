@@ -1,5 +1,5 @@
 # Learning-Projects
-Contains some fun learning projects and thier corresbonding ascii art done through out the courses such as :
+Contains some fun learning projects and their corresbonding ascii art done through out the courses such as :
 
 - [Cesear Cipher (python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/Ceaser%20Chiper)
 - [Encryption (C++)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/blob/main/Encryption.cpp)
