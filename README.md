@@ -11,3 +11,4 @@ Contains some fun and easy learning projects and their corresponding ascii art d
 - [Guess the number (python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/Guess%20the%20number)
 - [Higher Lower (python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/HigherLower)
 - [Coffee Machine (python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/Coffee%20Machine)
+- [Text Detection and Extraction using OpenCV and OCR](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/OCR)
