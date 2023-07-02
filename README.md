@@ -12,3 +12,4 @@ Contains some fun and easy learning projects and their corresponding ascii art d
 - [Higher Lower (python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/HigherLower)
 - [Coffee Machine (python)](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/Coffee%20Machine)
 - [Text Detection and Extraction using OpenCV and OCR](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/OCR)
+- [Booking Scraper](https://github.com/AhmedAbdElFatahMohamed/Learning-Projects/tree/main/Booking)
